@@ -3,7 +3,7 @@
 
 I build solutions that solve problems, spark joy, and make technology accessible for everyone. ✨
 
-With experience across software development, project management, and techincal writing, I focus on delivering user-friendly products that simplify and enhance the user experience. I bring my creative insights into my techincal work to produce solutions that are as visually striking as they are functional. From the first concept to the final release, I strive for accessibility and clarity in everything I create.
+With experience across software development, project management, and techincal writing, I focus on delivering user-friendly products that simplify and enhance the user experience. From the first concept to the final release, I strive for accessibility and clarity in everything I create.
 
 
 ## Skills and Tools 🛠️
